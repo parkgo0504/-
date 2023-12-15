@@ -1,6 +1,4 @@
-# 프로젝트 소개
-ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
-![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
+
 
 
 
@@ -71,12 +69,12 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 
 
 
+# 프로젝트 소개
+ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
 
 
-
-
-
-## 나랑 시연영상
+## 제주도 관광 챗봇 & 플래너 서비스 시연영상
 
 
 ## 📅 개발 기간
@@ -106,69 +104,39 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 
 
 ### 서비스 흐름도
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/fbab25a6-d9fe-4891-bac3-e8d0e12de7c9)
+
 
 
 ### E-R 다이어그램
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/986f2865-f93b-4f56-9b35-483f6920d07a)
+
 
 
 ## 화면 구성
 
-
-### 챌린지 포인트
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/98188b6f-be36-4c32-9644-ede2010ffa01)
-
-
-
-### MapPage 화면 구성
+### MapPage - 화면 구성
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/1a0b76ee-0a18-41e0-8493-44c1260756dc)
 
+### 여행 일정 계획 - 화면 구성
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/647b0d72-45e6-4c87-a4aa-57e6a69e34a6)
 
-### 기능 소개
+
+
+### 기능 소개(MapPage)
 
 ## 관광 정보 목록
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/5a530c1e-1c62-4e07-8e2b-2489327872a6)
 
-
-
 ## 즐겨찾기(거리순 관광 정보 업데이트)
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/2fe1d7b0-8930-4f8a-af65-da93125ae708)
-
-
 
 ## 제주 맞춤 관광지 챗봇
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/7171cc96-9196-4bb7-8a12-fddecd78c39f)
 
 
+### 기능 소개(여행 일정 계획)
 
-### 채팅화면 
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/cfbf3c41-f3e1-4976-9b80-e6c93362318a)
-
-
-### 채팅 참여자
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/a34dc87c-4803-4f44-8b37-0f1fb8f12c48)
-
-
-### 친구 목록
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/8d492bbf-2ccf-40e3-b4d5-e5f7f70c70d0)
-
-
-### 게시판
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/5a9fedcb-8f49-4ae1-b63a-860a6a78b8b2)
-
-
-### 프로필 변경 / 닉네임 변경
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/0df7edc1-e7ba-466a-a398-461ae04a420b)
-
-
-### 내 게시글 확인
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/83cba53f-52c5-4a1a-b311-97dd8981a84b)
-
-
-### 게시글 수정
-![image](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/2f780756-5610-4374-bafc-09b0fd77f1fd)
-
+## 거리 기준 관광 루트 정렬
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/2c242f9a-75a5-44fc-8de4-f26e2d8773da)
 
 
 
