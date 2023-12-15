@@ -1,4 +1,6 @@
-![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/c7c268a3-10de-4394-b30c-9f8e70c8fc75)# Jeju-Island-Travel-Chatbots-and-Planners
+## 프로젝트 소개
+ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
 
 
 
@@ -72,9 +74,6 @@
 
 
 
-## 프로젝트 소개
-ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
-![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
 
 
 
