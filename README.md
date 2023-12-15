@@ -1,4 +1,4 @@
-## 프로젝트 소개
+### 프로젝트 소개
 ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
 
