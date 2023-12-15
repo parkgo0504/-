@@ -1,0 +1,137 @@
+/* AiTest.css */
+
+.chat-room-container {
+  width: 600px;
+  max-width: 600px;
+  min-width: 600px;
+  height: 900px;
+  max-height: 900px;
+  min-height: 900px;
+  margin: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 7px;
+  background-color: white;
+}
+
+.chat-header {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.chat-container {
+  padding: 15px;
+  overflow-y: auto;
+  margin-left: 20px;
+  height: 759px;
+}
+
+.message {
+  position: relative;
+  padding: 8px;
+  margin-bottom: 20px; /* 기본값은 10px이었음 */
+  border-radius: 8px;
+  max-width: 96%;
+}
+
+.user:before {
+  content: '👤'; /* 사람 이모티콘 */
+  font-size: 18px;
+  position: absolute;
+  top: 50%;
+  left: -25px; /* 이모티콘과 메시지 사이의 간격을 조절 */
+  transform: translateY(-50%);
+  margin-right: 15px; /* 이모티콘과 메시지 사이의 간격을 더 늘림 */
+  margin-left: 9px;
+}
+
+.bot:before {
+  content: '🤖'; /* 기계 이모티콘 */
+  font-size: 18px;
+  position: absolute;
+  top: 50%;
+  left: -25px; /* 이모티콘과 메시지 사이의 간격을 조절 */
+  transform: translateY(-50%);
+  margin-right: 15px; /* 이모티콘과 메시지 사이의 간격을 더 늘림 */
+  margin-left: 7px;
+}
+
+.user {
+  background-color: #ecf0f1;
+  align-self: flex-end;
+}
+
+.bot {
+  background-color: #3498db;
+  color: white;
+  align-self: flex-start;
+}
+
+.input-container {
+  height: 48px;
+  max-height: 48px;
+  min-height: 48px;
+  font-size: 17px;
+  display: flex;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.send-button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.disableSend-button {
+  background-color: #f89b00;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+.user {
+  background-color: #ecf0f1;
+  align-self: flex-end; /* 사용자 채팅창을 오른쪽으로 이동 */
+}
+
+.loading-bar {
+  /* 로딩 바 스타일 */
+  width: 100%;
+  height: 4px;
+  position: relative;
+}
+
+.bar {
+  width: 100%;
+  height: 100%;
+  background-color: #3498db; /* 로딩 바 색상 */
+  animation: loading-animation 10s infinite; /* 로딩 애니메이션 적용 */
+}
+
+@keyframes loading-animation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}

@@ -19,4 +19,3 @@ uvicorn main:app --reload
 
 #5. 안되면
 python uvicorn main:app --reload
-# -
