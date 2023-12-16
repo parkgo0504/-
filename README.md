@@ -1,28 +1,4 @@
 
-
-
-
-## 팀원 역할
-
-| 팀원 | 역할 |
-| --- | --- |
-| 윤근영 (팀장) | Back-end Pinecone, openAi |
-| 유선웅 | Back-end, Google cloud run, 지도api,ci/cd |
-| 이주섭 | Back-end, 크롤링, Langchain, openAi |
-| 박기원 | Back-end, fastapi-openAi |
-| 김영웅 | react를 이용한 Front-end, 크롤링 |
-| 권용현 | react를 이용한 Front-end, 지도api |
-
-
-
-<h3>1) 서비스 설명</h3>
-
-
-
-
-
-
-
 # 프로젝트 소개
 ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
