@@ -33,47 +33,6 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 * 진행기간 : 2023.11.17 ~ 2023.12.14
 
 
-### 효과
-
-* 여행 경로추천으로 여행지를 쉽게 결정
-* 최단 경로 제공에 편한 여행 일정
-* 챗봇(여행 리뷰 요약)을 통해 여행지 정보 파악
-
-
-
-## 📚개발 환경
-
-### Frontend
-
-- FrameWork
-  - React 
-  - vite  
-  - axios
-
-### Backend
-
-- Framework
-  - JVM Open JDK
-  - SpringBoot
-  - JWT
-  - Spring Security
-- DataBase
-  - MySql
-  - JPA
-
-### Release
-
-- GCP
-- Docker 
-- Firebase hosting
-
-### IDE
-
-- IntelliJ
-- Visual Studio Code
-- FastApi
-
-
 ## ⭐주요 기능
 - 카카오 맵 api를 이용한 지도 기능들(게시판 연동)
 - 실시간 소통 가능한 채팅 기능(친구 목록, 채팅 목록)
@@ -82,15 +41,21 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 - 관심사 설정
 
 
-## ⚙ 시스템 아키텍처
+## ⚙효과
+
+* 여행 경로추천으로 여행지를 쉽게 결정
+* 최단 경로 제공에 편한 여행 일정
+* 챗봇(여행 리뷰 요약)을 통해 여행지 정보 파악
 
 
-### 서비스 흐름도
 
 
+## 📚개발 환경
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/38a1db80-1d4a-4be4-8c76-b035f8b41ce5)
 
-### E-R 다이어그램
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/3c7d1687-4a7a-437c-8641-19ddc1e939dd)
 
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/70f53161-a077-4bf0-9c44-28771063da72)
 
 
 ## 화면 구성
