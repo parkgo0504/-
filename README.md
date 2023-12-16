@@ -89,11 +89,8 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 
-| ![Na-rae Jeong](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/7e24dc5d-17cb-4da6-bff5-6158879242e5) | ![Geunyoung](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/a8bc7704-ea36-45b8-bc52-fc2c16643b92) | ![Kang-Ryeon Lee](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/12972ba8-7e87-436c-b336-add507697d66) | ![Ki-Won Park](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/0d5f1ebc-1869-4a51-93a4-7db8180f57b4) | ![Seonwoong](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/5434300a-28bd-424f-b4c1-f6796fa8c228) | ![Suyang](https://github.com/2023-SMHRD-KDT-AI-2/FirstRepository/assets/75320567/28e05f7f-6c81-40a7-acc3-4d0907a90c68) |
-|-----------------------------------|---------------------------------|-------------------------|---------------------|----------------------------------------|----------------------|
-| 팀장 (정나래) | 부팀장(윤근영) | 이강련 | 박기원 | 유선웅 | 홍수양 |
-| 애니메이션 <br> 간편로그인 <br> 외부API지도  <br> 게시글 <br> 프톤트엔드 <br> 백엔드 | 채팅 <br> 채팅 목록 <br> 데이터베이스 <br> 프론트엔드 <br>  백엔드 | 회원정보 관리 <br> 게시판 기능 <br> 관심사 설정 <br> 프론트엔드 <br>  백엔드 | 채팅 <br> 채팅 룸<br> 데이터베이스<br> 프론트엔드 <br>  백엔드 | CCTV 기능 <br> 지도 <br> 프론트엔드 <br>  백엔드 | 로그인 <br> 회원 가입 <br> 프론트엔드 <br>  백엔드 |
-| [GitHub](https://github.com/NaraeJung) | [GitHub](https://github.com/gueanyoung) | [GitHub](https://github.com/Krkdfus) | [GitHub](https://github.com/parkgo0504) | [GitHub](https://github.com/YUSeanWoong) | [GitHub](https://github.com/hongsuyang) |
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/3a98fc94-0623-4e34-8c3e-6a91050e8b69)
+
 
 
 
