@@ -14,33 +14,40 @@
 | 권용현 | react를 이용한 Front-end, 지도api |
 
 
-<h4>프로젝트 기간</h4>
-
----
-
-* 진행기간 : 2023.11.17 ~ 2023.12.14
-
-
 
 <h3>1) 서비스 설명</h3>
 
 
-#### 효과
+
+
+
+
+
+# 프로젝트 소개
+ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
+![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
+
+
+
+## 📅 개발 기간
+* 진행기간 : 2023.11.17 ~ 2023.12.14
+
+
+### 효과
 
 * 여행 경로추천으로 여행지를 쉽게 결정
 * 최단 경로 제공에 편한 여행 일정
 * 챗봇(여행 리뷰 요약)을 통해 여행지 정보 파악
 
-## ⚙️ Tech Stack
 
-### 1) Architecture
+
+## 📚개발 환경
 
 ### Frontend
 
 - FrameWork
   - React 
   - vite  
-  - MUI 
   - axios
 
 ### Backend
@@ -65,31 +72,6 @@
 - IntelliJ
 - Visual Studio Code
 - FastApi
-
-
-
-
-# 프로젝트 소개
-ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
-![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/0ce2ebc9-aa60-4bcd-b5cd-5069325fb724)
-
-
-## 제주도 관광 챗봇 & 플래너 서비스 시연영상
-
-
-## 📅 개발 기간
-2023.09.06 ~ 2023.09.21(2주)
-
-
-## 📚개발 환경
-| 구분 | 사용 스택 |
-| --- | --- |
-| 사용언어 | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">| 
-| 라이브러리 | <img src="https://img.shields.io/badge/socket(ws)-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/kakao API-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"> |
-| 개발도구 |<img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/eclips-2C2255?style=for-thebadge&logo=eclipseide&logoColor=white">|
-| 서버환경 | <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for- thebadge&logo=apachetomcat&logoColor=white"> |
-| 데이터베이스 | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> |
-| 협업도구 | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">|
 
 
 ## ⭐주요 기능
