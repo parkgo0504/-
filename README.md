@@ -46,6 +46,8 @@ https://zerotoc-75b9b.web.app/
 
 ## 🖥화면 구성
 
+<br/>
+
 ### MapPage - 화면 구성
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/1a0b76ee-0a18-41e0-8493-44c1260756dc)
 
@@ -58,6 +60,8 @@ https://zerotoc-75b9b.web.app/
 <br/><br/>
 
 ### 🖥기능 소개(MapPage)
+
+<br/>
 
 ## 관광 정보 목록
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/5a530c1e-1c62-4e07-8e2b-2489327872a6)
@@ -75,6 +79,8 @@ https://zerotoc-75b9b.web.app/
 <br/><br/>
 
 ### 기능 소개(여행 일정 계획)
+
+<br/>
 
 ## 거리 기준 관광 루트 정렬
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/2c242f9a-75a5-44fc-8de4-f26e2d8773da)
