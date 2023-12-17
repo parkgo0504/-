@@ -11,6 +11,12 @@ https://zerotoc-75b9b.web.app/
 
 <br/>
 
+## 시연영상
+
+
+https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/c386e0f6-83b1-4c5a-89c6-036513517090
+
+
 
 ## 📅 개발 기간
 * 진행기간 : 2023.11.17 ~ 2023.12.14
