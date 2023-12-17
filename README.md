@@ -6,7 +6,8 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 <br/>
 
 ## 👀배포
-zerotoc-75b9b.web.app : react
+
+zerotoc-75b9b.web.app 
 
 <br/>
 
