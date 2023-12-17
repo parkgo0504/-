@@ -59,30 +59,30 @@ https://zerotoc-75b9b.web.app/
 
 <br/><br/>
 
-### 🖥기능 소개(MapPage)
+## 🖥기능 소개(MapPage)
 
 <br/>
 
-## 관광 정보 목록
+### 관광 정보 목록
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/5a530c1e-1c62-4e07-8e2b-2489327872a6)
 
 <br/>
 
-## 즐겨찾기(거리순 관광 정보 업데이트)
+### 즐겨찾기(거리순 관광 정보 업데이트)
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/2fe1d7b0-8930-4f8a-af65-da93125ae708)
 
 <br/>
 
-## 제주 맞춤 관광지 챗봇
+### 제주 맞춤 관광지 챗봇
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/7171cc96-9196-4bb7-8a12-fddecd78c39f)
 
 <br/><br/>
 
-### 기능 소개(여행 일정 계획)
+## 기능 소개(여행 일정 계획)
 
 <br/>
 
-## 거리 기준 관광 루트 정렬
+### 거리 기준 관광 루트 정렬
 ![image](https://github.com/parkgo0504/jejuPaln-chatbot/assets/75320567/2c242f9a-75a5-44fc-8de4-f26e2d8773da)
 
 
