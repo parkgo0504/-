@@ -10,7 +10,7 @@ https://deploytest-s26rn5fmbq-du.a.run.app  : springboot
 
 https://fastapi-service-s26rn5fmbq-du.a.run.app : fastapi
 
-zerotoc-75b9b.web.app
+zerotoc-75b9b.web.app : react
 
 <br/>
 
