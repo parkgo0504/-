@@ -7,11 +7,8 @@ ZeroToC - 제주도 관광 챗봇 & 플래너 서비스
 
 ## 배포
 https://deploytest-s26rn5fmbq-du.a.run.app  : springboot
-<br/>
 
 https://fastapi-service-s26rn5fmbq-du.a.run.app : fastapi
-
-<br/>
 
 zerotoc-75b9b.web.app
 
